@@ -9,7 +9,7 @@ body {
   margin:auto;
   max-width:33em;
   color:rgb(10, 10, 10);
-  background-image: url("5-1206010T015-50.gif");
+  background-image: url("../img/5-1206010T015-50.gif");
 } 
 
 a {outline:none !important; font-weight:bold; text-decoration:none;}
