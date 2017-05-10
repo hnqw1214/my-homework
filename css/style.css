@@ -1,7 +1,7 @@
 ﻿/*首页样式（音乐馆样式）*/
 html,body,header,nav,footer,div,ul,ol,li,p,form,input,a,span,em,i,strong,b,font,img{
 		margin:0; padding:0; list-style:none; border:none;}
-body{font-family:"微软雅黑"; font-size:14px;}
+body{font-family:"微软雅黑"; font-size:14px;background-image: url("../img/5-120601092209-50.gif");}
 a{text-align:center; text-decoration:none; outline:none;}
 input{outline:none;}
 em{font-style:normal;}
@@ -104,13 +104,12 @@ em{font-style:normal;}
   top: 0px;
   left:0px;
   right:0px;
-  padding-left: 380px;
   background: grey;
 }
 .nav ul li{
 
 	float:left;
-  padding-right:72px;
+  padding-right:200px;
 }
 .nav ul li a{
 width:150px;
