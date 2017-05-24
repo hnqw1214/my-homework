@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS-Reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,blockquote,img,form{padding:0; margin:0;} 
+table,td,tr,th{ font-size:12px}
+li{list-style-type:none;list-style:none; }
+img{vertical-align:top;border:0;}
+ol,ul {list-style:none;}
+h1,h2,h3,h4,h5,h6 {font-weight:normal; font-style:normal; font-size:12px}
+address,cite,code,em,th {font-weight:normal; font-style:normal;}
+/* 通用样式 */
+body{ height:100%;font-family: "宋体",Arial, Helvetica, sans-serif; font-size:12px;}
+
+a { text-decoration:none; blr:e­xpression(this.onFocus=this.blur()); color:#333; outline-style:none;} /* 针对IE */
+a:hover { text-decoration: none; color:#006DC0;}
+a:focus { -moz-outline-style: none; } /*针对firefox*/
+.fl{ float:left;}
+.fr{ float:right;}
+.ofh{ overflow:hidden;}
+.tof { overflow:hidden; white-space:nowrap; display:block; text-overflow:ellipsis; -o-text-overflow:ellipsis;}
+.fs14fwb { font-size:14px; font-weight:bold;}
+.fs12fwb { font-size:12px; font-weight:bold;}
+
+.lh20{ line-height:20px;}
+.lh24{ line-height:24px;}
+.lh26{ line-height:26px;}
+.lh28{ line-height:28px;}
+.lh30{ line-height:30px;}
+.lh32{ line-height:32px;}
+
+.cb{ clear:both;}
+.cb8{ clear:both; height:8px;}
+.cb10{ clear:both; height:10px;}
+
+.wh8,.wh10,.wh12,.wh14,.wh16,.wh18,.wh20{ float:left; display:block;}
+.wh8{ width:8px; height:8px;}
+.wh10{ width:10px; height:10px;}
+.wh12{ width:12px; height:12px;}
+.wh14{ width:14px; height:14px;}
+.wh16{ width:16px; height:16px;}
+.wh18{ width:18px; height:18px;}
+.wh20{ width:20px; height:20px;}
+
+.m0a{ margin:0 auto;overflow:hidden;}
+.m0a940{ width:940px; margin:0 auto;overflow:hidden;}
+.m0a960{ width:960px; margin:0 auto;overflow:hidden;}
+.m0a980{ width:980px; margin:0 auto;overflow:hidden;}
+.m0a1000{ width:1000px; margin:0 auto;overflow:hidden;}
+
+.cnvp-tabs-hide { display:none;}
+.cnvp-tab-panle { }
+
+.mt20 { padding-top:20px;}
+
+
+.siteColumn730 {width:730px; overflow:hidden;}
+.siteColumn260 {width:260px; overflow:hidden;}
