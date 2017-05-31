@@ -101,7 +101,7 @@ list-style-type : none;
 
 #main li
 {
-  background:url("result (1).png") no-repeat 0 -16px;
+  background:url("../img/result (1).png") no-repeat 0 -16px;
   padding-left:22px;
 }
 .nav{
